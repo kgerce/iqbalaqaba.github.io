@@ -4,11 +4,10 @@ I'm trying to create a minimalistic and material likes portfolio website. I alre
 
 Mockup can be found on my behance profile by [clicking here](https://www.behance.net/gallery/68034339/One-page-portfolio-ui-concept)
 
-https://img.shields.io/gem/v/formatador.svg
 
 ## Built With
 
-* [UIkit Framework](https://github.com/uikit/uikit) - Used to generate RSS Feeds
+* [UIkit Framework](https://github.com/uikit/uikit) - Framework used
 * [Typed JS](https://github.com/mattboldt/typed.js/) - Typing effect plugin
 * [Getemoji.com](https://getemoji.com) - Emoji used
 

@@ -1,0 +1,72 @@
+/* Custom styling */
+$font-stack: Roboto, sans-serif;
+$color-white: #fdfdfd;
+$color-invert: #212121;
+$bg-white: #fafafa;
+$bg-invert: #5463c1;
+$radius: 5px;
+$font-light: 300;
+$font-regular: 400;
+$font-medium: 500;
+$font-bold: 700;
+$reset: 0px;
+
+html,
+body {
+  font-family: $font-stack;
+  /* Font color option */
+  color: $color-invert;
+  /* bg color option */
+  background-color: $color-white;
+}
+
+.uk-button {
+  border-radius: $radius;
+}
+
+h1 {
+  font-weight: $font-medium;
+  color: $color-invert;
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1.5em;
+  margin-bottom: $reset;
+}
+
+a {
+  color: $color-invert;
+  text-decoration: underline;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+/* Card Styling */
+
+.card-1 {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.card-1:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.card-2 {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.card-3 {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.card-4 {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.card-5 {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}

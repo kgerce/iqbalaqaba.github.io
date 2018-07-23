@@ -10,9 +10,10 @@ Mockup can be found on my behance profile by [clicking here](https://www.behance
 
 | Pkg Name  | Version |
 | ------------- | ------------- |
+| Jekyll | [![Gem Version](https://badge.fury.io/rb/jekyll.svg)](https://badge.fury.io/rb/jekyll) |
 | UIKit | [![npm version](https://badge.fury.io/js/uikit.svg)](https://badge.fury.io/js/uikit) |
 | Typed JS  | [![npm version](https://badge.fury.io/js/typed.js.svg)](https://badge.fury.io/js/typed.js)  |
-| Jekyll | [![Gem Version](https://badge.fury.io/rb/jekyll.svg)](https://badge.fury.io/rb/jekyll) |
+
 
 
 ## License

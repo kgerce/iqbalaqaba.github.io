@@ -1,8 +1,10 @@
-# Portfolio website source
-You just founded my portfolio page source ! My portfolio build upon UIkit 4 Engine and with some little of Google Map Magic.
-Any plugin, snippets, API, used in my pages will be listed below. Credits belong to their creators.
+# 2.0 Portfolio website docs
+I'm trying to create a minimalistic and material likes portfolio website. I already create the original mockups for this website. But when in production phase, i adjust some UI ( again ). I made this portfolio website using [UIkit Framework](https://github.com/uikit/uikit).
 
-## Plugin / Snippets / Api Used :
-- will be updated soon.
+Mockup can be found on my behance profile by [clicking here](https://www.behance.net/gallery/68034339/One-page-portfolio-ui-concept)
+
+## Plugin Used :
+- Typed JS for the typing effect. [Github link here](https://github.com/mattboldt/typed.js/)
+- Emoji by [Getemoji.com](https://getemoji.com)
 
 

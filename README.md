@@ -4,12 +4,14 @@ I'm trying to create a minimalistic and material likes portfolio website. I alre
 
 Mockup can be found on my behance profile by [clicking here](https://www.behance.net/gallery/68034339/One-page-portfolio-ui-concept)
 
+[![Build Status](https://travis-ci.com/iqbalaqaba/iqbalaqaba.github.io.svg?branch=master)](https://travis-ci.com/iqbalaqaba/iqbalaqaba.github.io)
 
 ## Built With
 
-* [UIkit Framework](https://github.com/uikit/uikit) - Framework used
-* [Typed JS](https://github.com/mattboldt/typed.js/) - Typing effect plugin
-* [Getemoji.com](https://getemoji.com) - Emoji used
+| Pkg Name  | Version |
+| ------------- | ------------- |
+| UIKit | [![npm version](https://badge.fury.io/js/uikit.svg)](https://badge.fury.io/js/uikit) |
+| Typed JS  | [![npm version](https://badge.fury.io/js/typed.js.svg)](https://badge.fury.io/js/typed.js)  |
 
 
 ## License

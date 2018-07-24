@@ -1,7 +1,6 @@
 ## 2.0 - Portfolio Pages 
 ![GitHub (pre-)release](https://img.shields.io/github/release/iqbalaqaba/iqbalaqaba.github.io/all.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
-![npm](https://img.shields.io/npm/v/npm.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
 
 
@@ -11,8 +10,7 @@ Mockup can be found on my behance profile by [clicking here](https://www.behance
 ## Status
 ![Status](https://david-dm.org/iqbalaqaba/iqbalaqaba.github.io.svg)
 [![Website](https://img.shields.io/website-up-down-green-red/https/iqbalaqaba.github.io.svg?label=my-website)](htps://iqbalaqaba.github.io)
-
-
+![npm](https://img.shields.io/npm/v/npm.svg)
 
 ## Built With
 
@@ -21,8 +19,6 @@ Mockup can be found on my behance profile by [clicking here](https://www.behance
 | `Jekyll` | [![Gem Version](https://badge.fury.io/rb/jekyll.svg)](https://badge.fury.io/rb/jekyll) |
 | `UIKit` | [![npm version](https://badge.fury.io/js/uikit.svg)](https://badge.fury.io/js/uikit) |
 | `Typed JS`  | [![npm version](https://badge.fury.io/js/typed.js.svg)](https://badge.fury.io/js/typed.js)  |
-
-
 
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.

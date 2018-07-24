@@ -25,3 +25,4 @@ Mockup can be found on my behance profile by [clicking here](https://www.behance
 | `Badge` for Github Docs  [Badgefury](http://badge.fury.io) |
 
 
+![Shield](https://img.shields.io/badge/shield%20by-shield.io%20and%20badgefury-blue.svg)

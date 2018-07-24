@@ -8,8 +8,8 @@ I'm trying to create a minimalistic and material likes portfolio website. I alre
 Mockup can be found on my behance profile by [clicking here](https://www.behance.net/gallery/68034339/One-page-portfolio-ui-concept)
 
 ## Status
-![Status](https://david-dm.org/iqbalaqaba/iqbalaqaba.github.io.svg)
 [![Website](https://img.shields.io/website-up-down-green-red/https/iqbalaqaba.github.io.svg?label=my-website)](htps://iqbalaqaba.github.io)
+![Status](https://david-dm.org/iqbalaqaba/iqbalaqaba.github.io.svg)
 ![npm](https://img.shields.io/npm/v/npm.svg)
 
 ## Built With

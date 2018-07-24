@@ -21,7 +21,7 @@ Mockup can be found on my behance profile by [clicking here](https://www.behance
 | `Jekyll` | [![Gem Version](https://badge.fury.io/rb/jekyll.svg)](https://badge.fury.io/rb/jekyll) |
 | `UIKit` | [![npm version](https://badge.fury.io/js/uikit.svg)](https://badge.fury.io/js/uikit) |
 | `Typed JS`  | [![npm version](https://badge.fury.io/js/typed.js.svg)](https://badge.fury.io/js/typed.js)  |
-| `Shields` for Github Docs | [Shields.io](https://shields.io/) |
-| `Badge` for Github Docs | [Badgefury](http://badge.fury.io) |
+| `Shields` for Github Docs  [Shields.io](https://shields.io/) |
+| `Badge` for Github Docs  [Badgefury](http://badge.fury.io) |
 
 

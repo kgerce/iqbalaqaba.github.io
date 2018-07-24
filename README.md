@@ -1,6 +1,6 @@
 ## 2.0 - Portfolio Pages 
 ![GitHub (pre-)release](https://img.shields.io/github/release/iqbalaqaba/iqbalaqaba.github.io/all.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/iqbalaqaba/iqbalaqaba.github.io.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
 
 

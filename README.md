@@ -21,8 +21,7 @@ Mockup can be found on my behance profile by [clicking here](https://www.behance
 
 
 
-## Getting Started
-
+## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
@@ -48,4 +47,4 @@ jekyll serve --livereload
 
 Now, open your browser and go to your `localhost: <PORT>`. Now you're all set 👏
 
-![Shield](https://img.shields.io/badge/shield%20by-shield.io%20and%20badgefury-blue.svg)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg) ![Shield](https://img.shields.io/badge/shield%20by-shield.io%20and%20badgefury-blue.svg)

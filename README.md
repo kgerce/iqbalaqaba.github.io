@@ -1,5 +1,7 @@
 ## 2.0 - Portfolio Pages 
 
+[![Travis (.org)](https://img.shields.io/travis/USER/REPO.svg)](testing.com)
+
 [![Website](https://img.shields.io/website-up-down-green-red/https/iqbalaqaba.github.io.svg?label=my-website)](htps://iqbalaqaba.github.io)
 ![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)

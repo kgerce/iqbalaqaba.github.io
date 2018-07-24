@@ -1,7 +1,8 @@
 ## 2.0 - Portfolio Pages 
 
 
-![Website](https://img.shields.io/website-up-down-green-red/http/iqbalaqaba.github.io.svg?label=my-website)
+
+[![Website](https://img.shields.io/website-up-down-green-red/https/iqbalaqaba.github.io.svg?label=my-website)](htps://iqbalaqaba.github.io)
 ![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
 ![npm](https://img.shields.io/npm/v/npm.svg)

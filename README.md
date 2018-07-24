@@ -20,9 +20,4 @@ Mockup can be found on my behance profile by [clicking here](https://www.behance
 | UIKit | [![npm version](https://badge.fury.io/js/uikit.svg)](https://badge.fury.io/js/uikit) |
 | Typed JS  | [![npm version](https://badge.fury.io/js/typed.js.svg)](https://badge.fury.io/js/typed.js)  |
 
-## License
-![license](https://img.shields.io/github/license/mashape/apistatus.svg)
-
-
-
 

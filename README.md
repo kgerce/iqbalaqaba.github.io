@@ -1,7 +1,5 @@
 ## 2.0 - Portfolio Pages 
 
-
-
 [![Website](https://img.shields.io/website-up-down-green-red/https/iqbalaqaba.github.io.svg?label=my-website)](htps://iqbalaqaba.github.io)
 ![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
@@ -10,7 +8,6 @@
 
 
 I'm trying to create a minimalistic and material likes portfolio website. I already create the original mockups for this website. But when in production phase, i adjust some UI ( again ). I made this portfolio website using [UIkit Framework](https://github.com/uikit/uikit).
-
 Mockup can be found on my behance profile by [clicking here](https://www.behance.net/gallery/68034339/One-page-portfolio-ui-concept)
 
 

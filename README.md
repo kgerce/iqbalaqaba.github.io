@@ -18,10 +18,6 @@ EMO Front end github repository
 | `Jquery` | [![npm version](https://badge.fury.io/js/jquery.svg)](https://badge.fury.io/js/jquery) |
 | `Holder JS` | [![npm version](https://badge.fury.io/js/holderjs.svg)](https://badge.fury.io/js/holderjs) |
 
-
-## Getting Started 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 
 First, you have to clone my repository to your local machine using this command

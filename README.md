@@ -2,6 +2,7 @@
 ![GitHub (pre-)release](https://img.shields.io/github/release/iqbalaqaba/EMO-Front-End/all.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/iqbalaqaba/EMO-Front-End.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
+![License](https://img.shields.io/github/license/iqbalaqaba/EMO-Front-End.svg)
 
 EMO Front end github repository
 

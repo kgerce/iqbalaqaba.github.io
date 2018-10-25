@@ -7,7 +7,7 @@ EMO Front end github repository
 
 ## Status
 ![Status](https://david-dm.org/iqbalaqaba/EMO-Front-End.svg)
-![npm version](https://img.shields.io/npm/v/npm.svg)
+![npm version](https://badge.fury.io/js/yarn.svg)
 
 
 ## Built With
